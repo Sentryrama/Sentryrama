@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<h1 align="center">Hello, I'm Harold Camacho Herrera 👋</h1>
 
 <!--
 **Sentryrama/Sentryrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
