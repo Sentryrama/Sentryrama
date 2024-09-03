@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Harold Camacho Herrera 👋</h1>
 
-<h3 align="center">This is my tech stack</h3>
+<h3 align="center">This is my tech stack:</h3>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-x?style=for-the-badge&logo=jetpackcompose&logoColor=white&logoSize=auto&color=%234285F4)
@@ -11,17 +11,10 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<!--
-**Sentryrama/Sentryrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
+<img src="https://raw.githubusercontent.com/sentryrama/sentryrama/output/snake.svg" alt="Snake animation" />
+
+---
